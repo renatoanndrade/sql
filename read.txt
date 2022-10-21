@@ -1,2 +1,2 @@
-ola mundo
-asdasdf
+codigo do meu banco de dados:
+Server=localhost\SQLEXPRESS;Database=master;Trusted_Connection=True;
